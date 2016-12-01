@@ -1,1 +1,12 @@
-# WePayUI构建工具，下载后必须存放在wepayui根目录下，才能使用
+# WePayUI构建工具
+
+## 自定义场景组件
+
+我们提供了客户端构建工具，您可以按需选择组件和场景自助构建。
+<p>
+    <img src="https://wepayui.github.io/img/wepayui_build.gif" alt="wepayui_build" class="wepayui-build-show">
+</p>
+
+## 重要说明
+该工具依赖于 https://github.com/wepayui/wepayui ，必须先下载wepayui
+再下载wepayui_build_tool，并存放在wepayui项目根目录下，才能使用
