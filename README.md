@@ -2,7 +2,7 @@
 
 ## 下载地址
 
-https://share.weiyun.com/4e1009bc9d381481ff7a34d1a291b6ec
+<a href="https://share.weiyun.com/4e1009bc9d381481ff7a34d1a291b6ec" target="_blank">https://share.weiyun.com/4e1009bc9d381481ff7a34d1a291b6ec</a>
 
 ## 自定义场景组件
 
