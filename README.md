@@ -8,7 +8,7 @@
 </p>
 
 ## 重要说明
-该工具依赖于 https://github.com/wepayui/wepayui ，必须先下载wepayui
+工具运行在64位系统，依赖于 https://github.com/wepayui/wepayui ，必须先下载wepayui，
 再下载wepayui_build_tool，并存放在wepayui项目根目录下，才能使用
 
 ## 下载地址
