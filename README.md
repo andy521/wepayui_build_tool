@@ -13,4 +13,4 @@
 
 ## 下载地址
 
-https://share.weiyun.com/4e1009bc9d381481ff7a34d1a291b6ec
+http://material-10005922.cos.myqcloud.com/wepayui/wepayui_build_0.0.1.rar
